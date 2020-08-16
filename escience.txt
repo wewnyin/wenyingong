@@ -1,0 +1,35 @@
+Z. Liao, W. Gong (corresponding author), X. Yan, L. Wang, and C. Hu, Solving nonlinear equations system with dynamic repulsion-based evolutionary agorithms. IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2018, In press. [source code]
+
+?W. Gong, Y. Wang, Z. Cai, and L. Wang, Finding multiple roots of nonlinear equation systems via a repulsion-based adaptive differential evolution. IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2018, In press. [source code]
+
+W. Gong, Y. Wang, Z. Cai, and S. Yang, A weighted biobjective transformation technique for locating multiple optimal solutions of nonlinear equation systems. IEEE Transactions on Evolutionary Computation. 2017, 21(5): 697-713. [source code]
+
+W. Gong, A. Zhou, and Z. Cai, A multioperator search strategy based on cheap surrogate models for evolutionary optimization. IEEE Transactions on Evolutionary Computation. 2015, 19(5), 746 - 758. [source code]
+
+W. Gong, X. Yan, X. Liu, and Z. Cai, Parameter extraction of different fuel cell models with transferred adaptive differential evolution. Energy. 2015, 86: 139 - 151. [source code]
+
+W. Gong, Z. Cai, and D. Liang, Adaptive ranking mutation operator based differential evolution for constrained optimization. IEEE Transactions on Cybernetics. 2015, 45(4): 716 - 727. [source code]
+
+W. Gong, Z. Cai, J. Yang, X. Li, and J. Li, Parameter identification of an SOFC model with an efficient, adaptive differential evolution algorithm. International Journal of Hydrogen Energy. 2014, 39(10): 5083 - 5096. [source code]
+
+W. Gong, Z. Cai, and Y. Wang, Repairing the crossover rate in adaptive differential evolution. Applied Soft Computing. 2014, 15: 149 - 168. [source code]
+
+W. Gong, Z. Cai, and D. Liang, Engineering optimization by means of an improved constrained differential evolution. Computer Methods in Applied Mechanics and Engineering. 2014, 268: 884 - 904. [source code]
+
+W. Gong and Z. Cai, Parameter optimization of PEMFC model with improved multi-strategy adaptive differential evolution. Engineering Applications of Artificial Intelligence. 2014, 27: 28 - 40. [source code]
+
+W. Gong and Z. Cai, Differential Evolution with Ranking-based Mutation Operators. IEEE Transactions on Cybernetics. 2013, 43(6): 2066 - 2081. [source code]
+
+W. Gong and Z. Cai, Accelerating parameter identification of proton exchange membrane fuel cell model with ranking-based differential evolution. Energy. 2013, 59: 356 - 364. [source code]
+
+W. Gong and Z. Cai, Parameter extraction of solar cell models using repaired adaptive differential evolution. Solar Energy. 2013, 94: 209 - 220. [source code]
+
+W. Gong, A. Fialho, Z. Cai, and H. Li, Adaptive Strategy Selection in Differential Evolution for Numerical Optimization: An Empirical Study, Information Sciences. Dec. 2011, 181(24): 5364 - 5386. [source code]
+
+W. Gong, Z. Cai, C.X. Ling, and H. Li, Enhanced Differential Evolution with Adaptive Strategies for Numerical Optimization, IEEE Transactions on Systems, Man, and Cybernetics: Part B -- Cybernetics. Apr. 2011, 41(2): 397-413. [source code]
+
+W. Gong, Z. Cai, and C.X. Ling, DE/BBO: A Hybrid Differential Evolution with Biogeography-Based Optimization for Global Numerical Optimization, Soft Computing. Springer-Verlag. Apr. 2011, 15(4): 645-665. [source code]
+
+W. Gong, Z. Cai, C.X. Ling, and H. Li, A Real-Coded Biogeography-Based Optimization with Mutation, Applied Mathematics and Computation. Elsevier Press. Jul. 2010, 216(9): 2749 - 2758. [source code]
+
+W. Gong and Z. Cai, An Improved Multiobjective Differential Evolution based on Pareto-adaptive epsilon-dominance and Orthogonal Design, European Journal of Operational Research. Elsevier Press. Oct. 2009, 198(2): 576 - 601. [source code]

@@ -1,0 +1,13 @@
+http://www.scimagojr.com/journalrank.php
+
+1.
+http://www.cs.iit.edu/~xli/CSJournalsRanking.htm
+
+2.
+http://www3.ntu.edu.sg/home/assourav/jrank.htm
+
+3.
+http://webdocs.cs.ualberta.ca/~zaiane/htmldocs/ConfRanking.html
+
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=JSCi&d=q7U6bRRwpgblsnZG0INv2bchv3QgqcaGG1a7STerjw8"></script>
